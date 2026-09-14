@@ -1,60 +1,60 @@
 criarCartao(
     'Matematica',
-    'Pergunta',
-    'Reposta'
+    'Quanto é 7 × 8?',
+    '56.'
 )
 criarCartao(
     'Matematica',
-    'Pergunta',
-    'Reposta'
+    'Qual é a raiz quadrada de 81?',
+    '9.'
 )
 criarCartao(
     'Matematica',
-    'Pergunta',
-    'Reposta'
+    'Quanto é 45 + 37?',
+    '82'
 )
 criarCartao(
     'Matematica',
-    'Pergunta',
-    'Reposta'
+    'Quanto é 100 - 45?',
+    '55.'
 )
 criarCartao(
     'Matematica',
-    'Pergunta',
-    'Reposta'
+    'Quanto é 144 ÷ 12?',
+    '12.'
 )
 criarCartao(
     'Matematica',
-    'Pergunta',
-    'Reposta'
+    'Quanto é 15% de 200?',
+    '30.'
 )
 criarCartao(
     'Matematica',
-    'Pergunta',
-    'Reposta'
+    'Qual é a metade de 74?',
+    '37'
 )
 criarCartao(
     'Matematica',
-    'Pergunta',
-    'Reposta'
+    'Quanto é o triplo de 15?',
+    '45.'
 )
 criarCartao(
     'Matematica',
-    'Pergunta',
-    'Reposta'
+    'Quantos graus tem a soma dos ângulos internos de um triângulo?',
+    '180°.'
 )
 criarCartao(
     'Matematica',
-    'Pergunta',
-    'Reposta'
+    'Quanto é 8 × 7 - 20?',
+    '36.'
 )
 criarCartao(
     'Matematica',
-    'Pergunta',
-    'Reposta'
+    'Qual é o próximo número primo após o 7?',
+    '11.'
 )
 criarCartao(
     'Matematica',
-    'Pergunta',
-    'Reposta'
+    'Quanto é 25% de 80?',
+    '20'
 )
