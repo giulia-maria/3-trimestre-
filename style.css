@@ -32,9 +32,16 @@ body{
     font-size: 1.4vw;
 }
 
-.cartao__conteudo__pergunta{
-
+.cartao__conteudo__pergunta p{
+    color:var(--cor-texto-preto);
+    font-weigth: 500;
 }
 .cartao__conteudo__reposta{
-    
+    color:var(--cor-texto);
+    font-weight: 700;
+
+}
+
+.cartao.active .cartao_conteudo{
+    transform:rotate(180deg);
 }
