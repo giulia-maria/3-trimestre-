@@ -1,6 +1,6 @@
 criarCartao(
     'Matematica',
-    'Quanto é 7 × 8?',
+    'Quanto é 7 vezes 8?',
     '56.'
 )
 criarCartao(
