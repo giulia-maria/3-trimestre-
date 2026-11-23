@@ -11,7 +11,7 @@ criarCartao(
 criarCartao(
     'Matematica',
     'Quanto é 45 + 37?',
-    '82'
+    '82.'
 )
 criarCartao(
     'Matematica',
@@ -31,7 +31,7 @@ criarCartao(
 criarCartao(
     'Matematica',
     'Qual é a metade de 74?',
-    '37'
+    '37.'
 )
 criarCartao(
     'Matematica',
@@ -56,5 +56,5 @@ criarCartao(
 criarCartao(
     'Matematica',
     'Quanto é 25% de 80?',
-    '20'
+    '20.'
 )
