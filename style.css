@@ -39,6 +39,7 @@ body{
     position: absolute;
     border-radius: 0.6rem;
     font-size: 1vw;
+    backface-visibility: hidden;
 }
 
 .cartao__conteudo p {
@@ -59,4 +60,49 @@ body{
 
 .cartao.active .cartao__conteudo{
     transform:rotate(180deg);
+}
+
+.cartao__conteudo__pergunta,
+.cartao__conteudo__reposta {
+    backface-visibility: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.cartao__conteudo__reposta {
+    transform: rotateY(180deg);
+    background-color: #87CEFA(0, 244, 191, 0.2);
+    border: 4px solid var(--card-back-color);
+}
+
+footer {
+    background-color: #000000;
+    color: #87CEFA;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 2rem;
+}
+
+footer p {
+    text-align: center;
+    font-size: 0.6rem;
+    margin-top: 0.5rem;
+}
+
+@media (max-width: 560px) {
+
+    .cartao {
+        flex: 1 0 calc(100% - 1rem);
+    }
+
+    .cartao__conteudo h3 {
+        font-size: 3vw;
+    }
+
+    .cartao__conteudo p {
+        font-size: 3.8vw;
+    }
 }
